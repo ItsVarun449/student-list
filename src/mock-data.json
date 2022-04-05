@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Student Name",
+      "age": 10,
+      "school": "LEAD School Karmala",
+      "class": 3,
+      "division": "A",
+      "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Student Name",
+        "age": 10,
+        "school": "LEAD School Karmala",
+        "class": 3,
+        "division": "A",
+        "status": "Active"
+      },
+      {
+        "id": 3,
+        "name": "Student Name",
+        "age": 10,
+        "school": "LEAD School Karmala",
+        "class": 3,
+        "division": "A",
+        "status": "Active"
+      },
+      {
+        "id": 4,
+        "name": "Student Name",
+        "age": 10,
+        "school": "LEAD School Karmala",
+        "class": 3,
+        "division": "A",
+        "status": "Active"
+      },
+      {
+        "id": 5,
+        "name": "Student Name",
+        "age": 10,
+        "school": "LEAD School Karmala",
+        "class": 3,
+        "division": "A",
+        "status": "Active"
+      }
+  ]
